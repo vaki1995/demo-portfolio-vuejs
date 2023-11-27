@@ -34,7 +34,7 @@
         >
         to view my works. Alternatively, you can visit my
         <strong class="underline"
-          ><a href="https://github.com/Kuon-dev">Github Profile</a></strong
+          ><a href="https://github.com/vaki1995">Github Profile</a></strong
         >
         to view my projects posted on Github
       </p>
