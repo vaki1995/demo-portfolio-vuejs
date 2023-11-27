@@ -13,7 +13,7 @@
         "Description": "Mersing is a tourism spot located in Vietnam, the purpose of this website is to boost the tourism industry of this location by making a AI Chatbot powered by Microsoft Virtual Agent ",
         "Sidenote": "",
         "Github": "https://github.com/vaki1995/demo-portfolio-vuejs",
-        "Tags": ["Vue3", "TailwindCSS", "Microsoft Virtual Agent", "API"]
+        "Tags": ["Wordpress", "HTML5", "CSS3", "MYSQL"]
     },
     {
         "Image": "./assets/images/work3.png",
@@ -21,6 +21,6 @@
         "Description": "Paws Heaven is an online E-commerce website developed by a team of 3 developers. Paws Heaven offers a variety of pet products such as food, vitamins and cages ",
         "Sidenote": "",
         "Github": "https://github.com/vaki1995/demo-portfolio-vuejs",
-        "Tags": ["PHP", "HTML5", "CSS3", "MYSQL"]
+        "Tags": ["Wordpress", "HTML5", "CSS3", "MYSQL"]
     }
 ]

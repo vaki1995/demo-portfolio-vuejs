@@ -1,13 +1,29 @@
 [
     {
-        "type": "frontend",
+        "type": "Frontend",
         "technologies": [
             {
-                "title": "React",
-                "image": "devicon-react-original"
+                "title": "Booststrap",
+                "image": "devicon-bootstrap-plain"
             },
             {
-                "title": "Vue",
+                "title": "Tailwind",
+                "image": "devicon-tailwindcss-plain"
+            },
+            {
+                "title": "HTML5",
+                "image": "devicon-html5-plain"
+            },
+            {
+                "title": "Less",
+                "image": "devicon-less-plain-wordmark"
+            },
+            {
+                "title": "CSS3",
+                "image": "devicon-css3-plain"
+            },
+            {
+                "title": "VueJS",
                 "image": "devicon-vuejs-plain"
             },
             {
@@ -19,62 +35,71 @@
                 "image": "devicon-javascript-plain"
             },
             {
-                "title": "HTML5",
-                "image": "devicon-html5-plain"
-            },
-            {
-                "title": "CSS3",
-                "image": "devicon-css3-plain"
-            },
-            {
-                "title": "Tailwind",
-                "image": "devicon-tailwindcss-plain"
+                "title": "Jquery",
+                "image": "devicon-jquery-plain"
             }
         ]
     },
     {
-        "type": "backend",
+        "type": "Backend",
         "technologies": [
+            {
+                "title": "PHP",
+                "image": "devicon-php-plain"
+            },
+            {
+                "title": ".Net Core",
+                "image": "devicon-dotnetcore-plain"
+            },
             {
                 "title": "Python",
                 "image": "devicon-python-plain"
             },
             {
-                "title": "Node",
+                "title": "NodeJS",
                 "image": "devicon-nodejs-plain"
-            },
-            {
-                "title": "Java",
-                "image": "devicon-java-plain"
-            },
-            {
-                "title": "MongoDB",
-                "image": "devicon-mongodb-plain"
-            },
-            {
-                "title": "Laravel",
-                "image": "devicon-laravel-plain"
             }
         ]
     },
     {
-        "type": "tools",
+        "type": "Frameworks & CMS",
         "technologies": [
             {
-                "title": "Markdown",
-                "image": "devicon-markdown-original"
+                "title": "Wordpress",
+                "image": "devicon-wordpress-plain"
             },
             {
-                "title": "Vim",
-                "image": "devicon-vim-plain"
+                "title": "Laravel",
+                "image": "devicon-laravel-plain"
+            },
+            {
+                "title": "CodeIgniter",
+                "image": "devicon-codeigniter-plain"
+            }
+        ]
+    },
+    {
+        "type": "IDE & Tools",
+        "technologies": [
+            {
+                "title": "VS Code",
+                "image": "devicon-vscode-plain"
+            },
+            {
+                "title": "VS Studio",
+                "image": "devicon-visualstudio-plain"
+            },
+            {
+                "title": "PHP Storm",
+                "image": "devicon-phpstorm-plain"
             },
             {
                 "title": "Figma",
                 "image": "devicon-figma-plain"
             },
             {
-                "title": "Linux (Arch)",
-                "image": "devicon-linux-plain"
+                "title": "Git",
+                "image": "devicon-git-plain"
             }
         ]
     }

@@ -80,11 +80,12 @@ export default {
 	data() {
 		return {
 			skillData: Skills,
-			typeOfSkill: ['frontend', 'backend', 'tools'],
+			typeOfSkill: ['Frontend', 'Backend', 'Frameworks & CMS', 'IDE & Tools'],
 			isSkillActive: {
 				frontend: false,
 				backend: false,
-				tools: false
+				frameworks_cms: false,
+				ide_tools: false
 			},
 			isHoveringNavbar: false,
 			selectedTech: this.currentSelectedTechnology(0),
@@ -103,13 +104,16 @@ export default {
 		currentSelectedTechnology(index) {
 			switch (index) {
 			case 0:
-				this.selectedTech = 'frontend';
+				this.selectedTech = 'Frontend';
 				break;
 			case 1:
-				this.selectedTech = 'backend';
+				this.selectedTech = 'Backend';
 				break;
 			case 2:
-				this.selectedTech = 'tools';
+				this.selectedTech = 'Frameworks & CMS';
+				break;
+			case 3:
+				this.selectedTech = 'IDE & Tools';
 				break;
 			}
 		},

@@ -21,9 +21,9 @@
       <br />
       <p class="lg:text-lg text-sm text-justify leading-6">
         &nbsp;&nbsp;&nbsp;&nbsp; Professional junior web developer capable
-        professional looking and user-friendly websites from stratch and writes
+        professional looking and user-friendly websites from Wordpress CMS and writes
         <strong>performance optimized, reusable and refactorable codes</strong>.
-        Professionally developed 5 web applications with multiple Javascript
+        Professionally developed 5 web applications with multiple PHP
         frameworks.
       </p>
       <br />
@@ -43,10 +43,7 @@
       </h2>
       <br />
       <p class="lg:text-lg text-sm text-justify leading-6">
-        &nbsp;&nbsp;&nbsp;&nbsp; Kien has a strong passion on technology and
-        computers. Outside of programmimg, Kien has a hobby of collecting and
-        engage with technology. He likes to tinker with his Arch Linux Operating
-        System and enjoys collecting custom keyboards.
+        &nbsp;&nbsp;&nbsp;&nbsp; Kien has a strong passion for technology and computers. In addition to programming, Kien enjoys collecting and becoming familiar with technology. He likes to play sports such as: soccer, swimming, badminton.
       </p>
     </section>
     <!-- journey section -->
@@ -60,19 +57,18 @@
       <div class="flex flex-col gap-2">
         <!-- year 2017 -->
         <p class="lg:text-lg text-sm text-justify">
-          <strong>2017:</strong>
-          &nbsp; Started journey on programming as a hobby
+          <strong>2013 - 2017:</strong>
+          &nbsp; Studied at Ho Chi Minh City University of Natural Sciences, Faculty of Information Technology
         </p>
         <!-- year 2020 -->
         <p class="lg:text-lg text-sm text-justify">
-          <strong>2020:</strong>
-          &nbsp; Enrolled for diploma of ICT with specalism in software
-          engineering
+          <strong>2018 - 2022:</strong>
+          &nbsp; Working at Fractal Technology Joint Stock Company
         </p>
         <!-- year 2022  -->
         <p class="lg:text-lg text-sm text-justify">
-          <strong>2022:</strong>
-          &nbsp; Started journey on web development
+          <strong>2022 - Now:</strong>
+          &nbsp; Working at Dirox company
         </p>
       </div>
     </section>

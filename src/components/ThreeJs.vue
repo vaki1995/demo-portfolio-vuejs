@@ -1,5 +1,5 @@
 <template>
-  <div class="divCenter pt-20">
+  <div class="divCenter pt-40">
     <!-- <div id="loading" class="divCenter w-full mt-[15rem] animate-spin"></div> -->
     <div
       id="threejs-container"
@@ -40,7 +40,7 @@ export default {
 	mounted() {
 		let isInDesktop = window.innerWidth > 1148;
 		const userPlatform = (platform) => {
-			return platform ? 5 : 3;
+			return platform ? 12 : 8;
 		};
 
 		//const scene = new THREE.Scene();
@@ -57,7 +57,7 @@ export default {
 		const loader = new GLTFLoader();
 		// loader.setDRACOLoader( dracoLoader );
 		loader.load(
-			' ./web/source/laptop.glb',
+			' ./web/source/work-area.glb',
 			function (gltf) {
 				// loader.load( './src/assets/room/scene.gltf', function ( gltf ) {
 				const model = gltf.scene;
@@ -186,7 +186,7 @@ export default {
 <style scoped>
   #threejs-container {
     width: 100%;
-    height: 50%;
+    height: 60%;
     display: flex;
     justify-content: center;
     text-align: center;

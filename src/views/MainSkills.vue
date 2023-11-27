@@ -10,7 +10,7 @@
         <br />
         <p class="lg:text-lg text-sm text-justify leading-6">
           &nbsp;&nbsp;&nbsp;&nbsp; Kien is a full-stacked developer focused on
-          <strong> VueJS and PHP Laravel </strong>. He also possess soft skills
+          <strong> Wordpress, PHP Laravel and VueJS </strong>. He also possess soft skills
           to further enhance himself as a web developer with skills such as
           communication skills, creativity, problem solving, and adaptability.
         </p>
@@ -300,7 +300,7 @@ export default {
 			.type('&nbsp&nbsp&nbsp&nbsp<')
 
 		// line 3
-			.type('div class=\'bg-sky-600 px-2\'>1<')
+			.type('div class=\'bg-sky-600 px-2\'>K<')
 			.type('/div>')
 			.break()
 			.pause(1)
@@ -316,7 +316,7 @@ export default {
 			.type('&nbsp&nbsp&nbsp&nbsp<')
 
 		// line 4
-			.type('div class=\'bg-rose-600 px-2\'>2<')
+			.type('div class=\'bg-rose-600 px-2\'>I<')
 			.type('/div>')
 			.break()
 			.pause(1)
@@ -360,7 +360,7 @@ export default {
 
 			.type('&nbsp&nbsp&nbsp&nbsp<')
 		// line 7
-			.type('div class=\'bg-lime-600 px-2\'>1<')
+			.type('div class=\'bg-lime-600 px-2\'>E<')
 			.type('/div>')
 			.break()
 			.pause(1)
@@ -375,7 +375,7 @@ export default {
 
 			.type('&nbsp&nbsp&nbsp&nbsp<')
 		// line 8
-			.type('div class=\'bg-teal-600 px-2\'>2<')
+			.type('div class=\'bg-teal-600 px-2\'>N<')
 			.type('/div>')
 			.break()
 			.pause(1)
